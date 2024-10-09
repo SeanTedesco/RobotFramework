@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.1 (Python 3.11.0 on darwin)" generated="2024-10-08T21:19:06.333307" rpa="false" schemaversion="5">
+<suite id="s1" name="googleSearch" source="/Users/seantedesco/Documents/RobotFramework/Tests/FunctionalTests/googleSearch.robot">
+<test id="s1-t1" name="Another Test" line="14">
+<kw name="Should Be Equal" owner="BuiltIn">
+<arg>${MESSAGE}</arg>
+<arg>Hello, World!</arg>
+<doc>Fails if the given objects are unequal.</doc>
+<status status="PASS" start="2024-10-08T21:19:06.349196" elapsed="0.000228"/>
+</kw>
+<status status="PASS" start="2024-10-08T21:19:06.348655" elapsed="0.000910"/>
+</test>
+<doc>Example using the space seperated format.</doc>
+<status status="PASS" start="2024-10-08T21:19:06.336043" elapsed="0.013828"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="googleSearch">googleSearch</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
